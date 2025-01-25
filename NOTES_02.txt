@@ -41,3 +41,12 @@ Smart Parking
 
 Connected Cars
 
+Smart streetlights: 
+Adjust brightness based on traffic and Weather conditions
+
+Traffic Monitoring:
+Optimize traffic flow and reduce congestion
+
+Waste management:
+Sensors monitor waste bins to optimize collection routes
+

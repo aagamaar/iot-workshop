@@ -1,0 +1,16 @@
+MICROCONTROLLER:
+Compact integrated circuit designed to perform specific tasks within an EMBEDDED system.
+
+Brain of IOT devices
+
+
+Arduino
+Raspberry Pi Pico(RP2040 microcontrollers)
+ESP32 AND ESP8266 ( WIFI ENABLED microcontrollers )
+
+key COMPONENTS of microcontrollers:
+RAM
+TIMERS AND COUNTERS
+I/O PINS
+communication INTERFACES
+.....................................................

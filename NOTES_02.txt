@@ -34,5 +34,10 @@ Livestock Monitoring
 Smart Irrigation systems: 
 adjust water usage based on the moisture level of soil
 
+Fleet management:
+Real time tracking and manintenance updates for vehicles
 
+Smart Parking
+
+Connected Cars
 

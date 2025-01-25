@@ -3,3 +3,8 @@ M2M:
 
 # Direct communication between devices and machines using Sensors..
 
+IOT APPLICATIONS:
+ 
+SMART THERMOSTATS: 
+AUTOMATICALLY ADJUST TEMPERATURE
+eg.Nest

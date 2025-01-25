@@ -45,3 +45,13 @@ Advantages:
 # Resource management
 # Better experience
 # Enhanced User interface
+
+Disadvantages:
+# Reliability issues
+# Interoperability challenges
+# Privacy concern and issues
+# Reliability
+# Risk of job displacement
+
+
+### The world needs skilled automation engineers.

@@ -5,3 +5,10 @@ EMBEDDED SYSTEMS:
 # Specalised computer systems that perform dedicated functions within larger devices.
 # They consist of hardware  (microcontrollers or microprocessors) and software tailored to it.
 
+COMPONENTS OF IOT:
+# Sensors and actuators 
+# connectivity and gateway
+# devices and controllers
+# iot cloud
+# iot analytics
+# user interface

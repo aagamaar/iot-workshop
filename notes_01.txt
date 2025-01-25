@@ -1,0 +1,7 @@
+IOT:
+# A network of interconnected devices that communicate over .
+
+EMBEDDED SYSTEMS:
+# Specalised computer systems that perform dedicated functions within larger devices.
+# They consist of hardware  (microcontrollers or microprocessors) and software tailored to it.
+

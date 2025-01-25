@@ -55,3 +55,15 @@ Disadvantages:
 
 
 ### The world needs skilled automation engineers.
+
+POTENTIAL OF IOT ACROSS INDUSTRIES:
+Manufacturing:
+Predictive manintenance and smart factories
+
+HEALTHCARE:
+Remote Monitoring, Smart devices
+
+RETAIL:
+Smart Shelves, Personalized Shopping
+When inventory gets over: team can refill the stock.
+

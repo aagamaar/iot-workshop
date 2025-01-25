@@ -23,3 +23,13 @@ Remote Patient Monitoring
 Wearable Health Trackers:
 Eg: Fitbit
 
+Industrial IOT (IIOT)
+
+Supply Chain management
+
+Weather monitoring
+
+Livestock Monitoring
+
+Smart Irrigation
+

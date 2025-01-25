@@ -18,3 +18,7 @@ Sensors:
 
 ACTUATOR:
 # converts electrical signals into physical actions, such as movement or control of a mechanism
+
+CONNECTIVITY:
+# Technology that enables communication and data transfer between devices.
+

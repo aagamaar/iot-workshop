@@ -85,5 +85,6 @@ CONNECTIVITY:
 
 SENSING:
 
-D
+DATA PROCESSING :
 
+Automation:

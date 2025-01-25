@@ -22,3 +22,13 @@ ACTUATOR:
 CONNECTIVITY:
 # Technology that enables communication and data transfer between devices.
 
+EDGE DEVICES :
+
+IOT CLOUD OR LOCAL STORAGE:
+Storage systems that save data for future user
+
+IOT ANALYTICS:
+# Data Extraction 
+# Data Analytics
+# Data Aggregation
+# Data Classification

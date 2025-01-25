@@ -1,0 +1,5 @@
+M2M:
+# MACHINE TO MACHINE
+
+# Direct communication between devices and machines using Sensors..
+

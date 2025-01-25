@@ -31,5 +31,8 @@ Weather monitoring
 
 Livestock Monitoring
 
-Smart Irrigation
+Smart Irrigation systems: 
+adjust water usage based on the moisture level of soil
+
+
 

@@ -32,3 +32,9 @@ IOT ANALYTICS:
 # Data Analytics
 # Data Aggregation
 # Data Classification
+
+USER INTERFACE:
+# Notification
+# Alerts
+# Remote controlling live Trends
+

@@ -1,0 +1,4 @@
+Zigbee,HTTP, HTTPS , MQTT
+LoRaWAN
+Wifi: Wireless Fidelity
+Operates on IEEE 802.11

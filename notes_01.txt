@@ -12,3 +12,9 @@ COMPONENTS OF IOT:
 # iot cloud
 # iot analytics
 # user interface
+
+Sensors:
+# detects physical changes in environment and converts them into measurable data.
+
+ACTUATOR:
+# converts electrical signals into physical actions, such as movement or control of a mechanism

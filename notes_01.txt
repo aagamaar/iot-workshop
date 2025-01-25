@@ -38,3 +38,10 @@ USER INTERFACE:
 # Alerts
 # Remote controlling live Trends
 
+Advantages:
+# Automation and Control:
+# Improved Efficiency
+# Cost Savings
+# Resource management
+# Better experience
+# Enhanced User interface

@@ -66,4 +66,15 @@ Remote Monitoring, Smart devices
 RETAIL:
 Smart Shelves, Personalized Shopping
 When inventory gets over: team can refill the stock.
+Shopping patterns.. bread and butter
 
+
+Transportation:
+Fleet management and autonomous vehicles
+fuel logistics optimization
+
+Agriculture:
+Smart Irrigation and precision farming
+
+Energy:
+Smart grids and home energy management
